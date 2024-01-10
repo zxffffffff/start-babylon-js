@@ -11,5 +11,5 @@
 ![Babylon Native and Babylon React Native](https://github.com/BabylonJS/BabylonNative/blob/master/Documentation/Images/hybrid_app_spectrum.png)
 
 - `Babylon.js`
-- `Babylon Native` = `Babylon.js` + `Node.js` + `C++`
-- `Babylon React Native` = `Babylon Native` + `React Native`
+- `Babylon Native` = `C++` + `JS Engine (V8, JSC)` + `Babylon.js`
+- `Babylon React Native` = `React Native` + `Babylon Native`
